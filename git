@@ -1,0 +1,30 @@
+[33mcommit a9b2577c14d754b90a8a091aa9f42c0f9c13736d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Egor <vip.opekin@mail.ru>
+Date:   Sat Feb 24 14:19:55 2024 +0600
+
+    completed task1_1
+
+[33mcommit 28f631591729595004c324f74ccdbbf3ed969c0b[m[33m ([m[1;31morigin/master[m[33m)[m
+Merge: bbe824e 51f67ca
+Author: Egor <vip.opekin@mail.ru>
+Date:   Sat Feb 24 13:59:38 2024 +0600
+
+    Merge branch 'master' of https://github.com/PerkaHub/opd_tasks
+
+[33mcommit bbe824ee01b49815c786c9b57ea465aaa985b577[m
+Author: Egor <vip.opekin@mail.ru>
+Date:   Sat Feb 24 13:53:11 2024 +0600
+
+    test
+
+[33mcommit 51f67cab004ac40ac093c828683be48b2feda0c4[m
+Author: PerkaHub <160001263+PerkaHub@users.noreply.github.com>
+Date:   Sat Feb 24 13:39:59 2024 +0600
+
+    Create README.md
+
+[33mcommit b1a724c903ba0224c19213ca820d089b536213a9[m
+Author: Egor <vip.opekin@mail.ru>
+Date:   Sat Feb 24 13:35:15 2024 +0600
+
+    print
