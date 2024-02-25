@@ -2,7 +2,7 @@ import math
 
 # Пример 1
 def task_1(a, b):
-    # TODO
+
     if a > b:
         x = math.sqrt(a*b) - 3
     elif a == b:
@@ -14,7 +14,7 @@ def task_1(a, b):
 
 # Пример 2
 def task_2(a, b):
-    # TODO
+
     if a < b:
         x = math.tan(a/b) + 1
     elif a == b:
@@ -26,7 +26,7 @@ def task_2(a, b):
 
 # Пример 3
 def task_3(a, b):
-    # TODO
+
     if a > b:
         x = math.log10(a*b) + 21
     elif a == b:
@@ -38,7 +38,7 @@ def task_3(a, b):
 
 # Пример 4
 def task_4(a, b):
-    # TODO
+
     if a > b:
         x = math.sqrt(a*b-1)
     elif a == b:
@@ -50,7 +50,7 @@ def task_4(a, b):
 
 # Пример 5
 def task_5(a, b):
-    # TODO
+
     if a > b:
         x = math.log(a/b) + 31
     elif a == b:
@@ -62,7 +62,7 @@ def task_5(a, b):
 
 # Пример 6
 def task_6(a, b):
-    # TODO
+
     if a < b:
         x = math.sqrt(b/a + 1)
     elif a == b:
